@@ -1,0 +1,17 @@
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\bin\Debug\LazyBum for PC.exe.config
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\bin\Debug\LazyBum for PC.exe
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\bin\Debug\LazyBum for PC.pdb
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum_for_PC.Properties.Resources.resources
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.csproj.GenerateResource.Cache
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.exe
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.pdb
+F:\Andere\Programmierung\Eigene Programme\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum_for_PC.LazyWindow.resources
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\bin\Debug\LazyBum for PC.exe.config
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.exe
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.pdb
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\bin\Debug\LazyBum for PC.exe
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\bin\Debug\LazyBum for PC.pdb
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.csprojResolveAssemblyReference.cache
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum_for_PC.Properties.Resources.resources
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum for PC.csproj.GenerateResource.Cache
+D:\Projekte\LazyBum\LazyBum for PC\LazyBum for PC\obj\Debug\LazyBum_for_PC.LazyWindow.resources
